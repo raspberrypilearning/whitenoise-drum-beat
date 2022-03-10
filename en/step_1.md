@@ -18,5 +18,3 @@ for i in range(100):
     speaker.stop()
     sleep(0.5)
 --- /code ---
-
---- /collapse ---
